@@ -1,16 +1,16 @@
 {
-  "name": "product_backend_api_rest",
+  "name": "products-backend-api-rest",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "\"Andre\"",
+  "author": "Andre",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.21.2",
-    "mongoose": "^8.9.3"
-  }
+    "express": "^4.19.2",
+    "mongoose": "^8.5.4"
+  },
+  "description": ""
 }
